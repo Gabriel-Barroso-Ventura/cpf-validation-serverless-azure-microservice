@@ -1,2 +1,3 @@
-# cpf-validation-serverless-azure-microservice
-On this project, we show steps to create a microsevice using Azure to implement as cpf validation.
+# CPF Validation Project With Serverless Azure Microservice
+
+In this project, we show the steps to create a serverless microservice for CPF validation using Azure.
